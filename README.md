@@ -1,7 +1,7 @@
 hubot-sushiyuki
 ================
 
-Build status :sushi:
+![Status](http://img.shields.io/badge/build-%F0%9F%8D%A3-brightgreen.svg)
 
 Description
 -----------
